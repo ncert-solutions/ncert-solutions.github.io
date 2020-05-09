@@ -1,1 +1,1 @@
-# ncert-solutions.githu.io
+# ncert-solutions.github.io
